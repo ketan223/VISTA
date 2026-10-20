@@ -1,0 +1,1 @@
+# VISTA Video Assistant Module
